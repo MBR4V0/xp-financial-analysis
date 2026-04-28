@@ -1,39 +1,80 @@
-# Integrative Project – Data Science for Business
+# 📊 Financial Data Analysis: Investment Insights
 
-## 🎯 Project Theme
-This integrative project aims to apply **Data Science for Business** techniques in a real organization, focusing on **XP Inc.**, analyzing financial, market and behavioral data to generate strategic insights.
+---
 
-## 🏛 Educational Organization
-**FATEC Votorantim** – Course: Data Science for Business
-This project is part of the course's academic activities, promoting the integration between theory, practice and application in real organizations.
+## 🧠 Business Problem
 
-## 👨‍💻 Team
-- **Students:**
-  - Antonio Agnaldo Matos Lins  
-  - Gilberto de Souza Oliveira Junior  
-  - [Marcel Monteiro Balduino](https://github.com/MBR4V0)  
-  - [Rafael Martins Cardoso](https://github.com/rafacardoso17)  
-  - [Renan Machado Albertini](https://github.com/Renanfatec22)  
-- **Guiding Professor:**
-  - Dr. Cassio Ricardo Fares Riedo
+Financial data is complex and often underutilized, making it difficult for investors to identify trends and make informed decisions.
 
-## 📊 Organization Studied
-**XP Inc.** – Investment and financial services brokerage.
-The study will explore aspects such as:
-- Financial performance
-- Marketing and growth strategies 
-- Customer behavior and market trends
+This project aims to transform raw financial data into actionable insights.
 
-## 🗂 Repository Structure
-- `notebooks/` → Exploratory analysis and modeling in Jupyter Notebooks
-- `src/` → Reusable source code (functions, scripts, modules) 
-- `data/` → Data used in the project (do not version sensitive data)
-- `reports/` → Reports, presentations and dashboards
-- `README.md` → This file 
-- `.gitignore` → Files and folders to ignore by Git  
-- `LICENSE` → Licensing information
+---
 
-## 🚀 How to Contribute 
-1. Clone the repository:
-```bash
-git clone https://github.com/fatec-votorantim-pi-grupo/insight-xp.git
+## 💡 Project Objective
+
+Analyze investment data to uncover patterns, trends, and opportunities that support better decision-making.
+
+---
+
+## 📁 Dataset
+
+The dataset includes:
+
+* Asset prices
+* Historical time series
+* Market indicators
+
+---
+
+## 🔍 Data Analysis Process
+
+* Data cleaning and preprocessing
+* Exploratory Data Analysis (EDA)
+* Trend analysis
+* Visualization of financial behavior
+
+---
+
+## 📈 Key Insights
+
+* Identification of top-performing assets
+* Detection of volatility patterns
+* Understanding of market trends over time
+
+---
+
+## 💡 Business Recommendations
+
+* Focus on assets with consistent growth
+* Monitor volatility for risk management
+* Diversify investment strategies
+
+---
+
+## 🛠️ Technologies
+
+* Python (Pandas, NumPy)
+* Data Visualization (Power BI / Matplotlib / Seaborn)
+* Git & GitHub
+
+---
+
+## 📊 Dashboard
+
+Visual insights were developed using Power BI to support decision-making.
+
+(Add screenshots in /images folder)
+
+---
+
+## 🚀 Future Improvements
+
+* Predictive models for asset prices
+* Real-time data integration
+* Interactive dashboards
+
+---
+
+## 📌 Status
+
+✅ Completed (Academic Project upgraded to professional portfolio)
